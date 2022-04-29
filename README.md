@@ -1,6 +1,6 @@
 # hostloc_getPoints
 
-小鸡定时获取hostloc积分
+## 小鸡定时获取hostloc积分
 
 github action大规模失效，mjj平均一人10鸡，以下可以部署到自己的小鸡上
 
@@ -74,3 +74,7 @@ python3 /root/hostloc/hostloc_auto_get_points.py
 env
 HOSTLOC_USERNAME=username1,username2...
 HOSTLOC_PASSWORD=password1,password2...
+
+## Credits
+原作者：https://github.com/Jox2018/hostloc_getPoints
+在原作者基础上增加了serverChan推送功能
