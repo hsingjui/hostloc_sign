@@ -1,3 +1,7 @@
+"""
+cron: 10 7 * * *
+new Env('Hostloc签到');
+"""
 import os
 import time
 import random
